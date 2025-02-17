@@ -23,12 +23,10 @@
 5.Start the project: Use npm start to launch the React project.
 
 
-## project1:
+# Password-genrator
 
-# Counter
-       
-The Counter Project in React involves setting up a basic app where users can increment or decrement a counter value. It uses React components and hooks,            specifically {useState}, to manage and display the count. This project is an excellent introduction to understanding React's fundamental concepts like state        management and event handling.
+To create a password generator in a React project, use useState to manage the password value and create a function that generates a random password using characters, numbers, and symbols. Include input fields to set the password criteria (length, character types) and a button to trigger the password generation. Finally, display the generated password on the screen for the user to copy.
 
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Counter).
+You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Password-genrator)
