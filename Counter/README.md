@@ -30,3 +30,11 @@ The Counter Project in React involves setting up a basic app where users can inc
 
 -   ### Example:
 You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Counter).
+
+
+
+# Important Notice
+
+Please note that the `node_modules` folder is not included in this project. Before running the project, make sure to install the dependencies using:
+
+npm install : This will download and install all necessary packages.
