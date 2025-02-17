@@ -21,6 +21,7 @@ To install all the dependences of the project, run the following command:
 
 ## project1:
 # Counter
+       
        The Counter Project in React involves setting up a basic app where users can increment or decrement a counter value. It uses React components and hooks,            specifically {useState}, to manage and display the count. This project is an excellent introduction to understanding React's fundamental concepts like state        management and event handling.
 
 -   ### Example:
