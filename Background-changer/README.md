@@ -1,4 +1,4 @@
-### React Project:
+## React Project:
 
  - I have developed a project using the React JavaScript library. This project aims to demonstrate the versatility and power of React in building dynamic and responsive user interfaces.
 
@@ -13,9 +13,13 @@
 To install all the dependences of the project, run the following command:
 
 1.git clone https://github.com/shakti1590/React-Calculator.git
+
 2.Navigate to the project directory: cd <project-directory>.
+
 3.Install dependencies: Run npm install to download and install all necessary packages from package.json.
+
 4.Also install Tailwind CSS files for apply styling in this projects.
+
 5.Start the project: Use npm start to launch the React project.
 
 
