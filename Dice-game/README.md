@@ -23,12 +23,10 @@
 5.Start the project: Use npm start to launch the React project.
 
 
-## project1:
+# Dice-game
 
-# Counter
-       
-The Counter Project in React involves setting up a basic app where users can increment or decrement a counter value. It uses React components and hooks,            specifically {useState}, to manage and display the count. This project is an excellent introduction to understanding React's fundamental concepts like state        management and event handling.
+To create a Dice game in a React project, use useState to manage the state of the dice values and Math.random to generate random numbers for the dice roll. Create a button that triggers the dice roll and updates the state with the new values. Render the dice values on the screen, and you're set for some dice-rolling fun! 🎲
 
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Counter).
+You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Dice-game).
