@@ -23,12 +23,12 @@
 5.Start the project: Use npm start to launch the React project.
 
 
-## project1:
+## project2:
 
-# Counter
-       
-The Counter Project in React involves setting up a basic app where users can increment or decrement a counter value. It uses React components and hooks,            specifically {useState}, to manage and display the count. This project is an excellent introduction to understanding React's fundamental concepts like state        management and event handling.
+# Background-changer
+
+To implement a background changer in a React project, you can use state to manage the background color value and set the style property on a component. Use a button or other input to update the state value with the desired color, causing the component to re-render with the new background color. The useState and onClick event handler can help achieve this.
 
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Counter).
+You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Background-changer).
