@@ -1,4 +1,4 @@
-## React Project:
+# React Project:
 
  - I have developed a project using the React JavaScript library. This project aims to demonstrate the versatility and power of React in building dynamic and responsive user interfaces.
 
