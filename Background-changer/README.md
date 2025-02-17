@@ -23,8 +23,6 @@
 5.Start the project: Use npm start to launch the React project.
 
 
-## project2:
-
 # Background-changer
 
 To implement a background changer in a React project, you can use state to manage the background color value and set the style property on a component. Use a button or other input to update the state value with the desired color, causing the component to re-render with the new background color. The useState and onClick event handler can help achieve this.
