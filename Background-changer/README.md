@@ -12,11 +12,11 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/shakti1590/React-Calculator.git
-    Navigate to the project directory: cd <project-directory>.
-    Install dependencies: Run npm install to download and install all necessary packages from package.json.
-    Also install Tailwind CSS files for apply styling in this projects.
-    Start the project: Use npm start to launch the React project.
+    -git clone https://github.com/shakti1590/React-Calculator.git
+    -Navigate to the project directory: cd <project-directory>.
+    -Install dependencies: Run npm install to download and install all necessary packages from package.json.
+    -Also install Tailwind CSS files for apply styling in this projects.
+    -Start the project: Use npm start to launch the React project.
 
 
 ## project1:
