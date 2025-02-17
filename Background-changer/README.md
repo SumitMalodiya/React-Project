@@ -30,3 +30,11 @@ To implement a background changer in a React project, you can use state to manag
 
 -   ### Example:
 You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Background-changer).
+
+
+
+# Important Notice
+
+Please note that the `node_modules` folder is not included in this project. Before running the project, make sure to install the dependencies using:
+
+npm install : This will download and install all necessary packages.
