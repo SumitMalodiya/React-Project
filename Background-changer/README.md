@@ -31,7 +31,7 @@ The Counter Project in React involves setting up a basic app where users can inc
 
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://127.0.0.1:5501/Buttons/index.html).
+You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Counter).
 
 ## project2:
 
@@ -41,7 +41,7 @@ To implement a background changer in a React project, you can use state to manag
 
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://localhost:5173/).
+You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Background-changer).
 
 ## project3:
 
@@ -51,7 +51,7 @@ To create a Dice game in a React project, use useState to manage the state of th
 
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://127.0.0.1:5501/Buttons/index.html).
+You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Dice-game).
 
 ## project4:
 
@@ -61,7 +61,7 @@ To create a password generator in a React project, use useState to manage the pa
 
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://127.0.0.1:5501/Buttons/index.html).
+You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Password-genrator).
 
 
 # Important Notice
