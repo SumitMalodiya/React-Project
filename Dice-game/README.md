@@ -30,3 +30,11 @@ To create a Dice game in a React project, use useState to manage the state of th
 
 -   ### Example:
 You can view the deployed project here [Link to the project] (https://github.com/SumitMalodiya/React-Project/tree/main/Dice-game).
+
+
+
+# Important Notice
+
+Please note that the `node_modules` folder is not included in this project. Before running the project, make sure to install the dependencies using:
+
+npm install : This will download and install all necessary packages.
