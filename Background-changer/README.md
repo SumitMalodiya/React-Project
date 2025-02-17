@@ -64,10 +64,11 @@ To create a password generator in a React project, use useState to manage the pa
 You can view the deployed project here [Link to the project] (http://127.0.0.1:5501/Buttons/index.html).
 
 
-### Important Notice
+# Important Notice
+
 Please note that the `node_modules` folder is not included in this project. Before running the project, make sure to install the dependencies using:
 
-npm install:This will download and install all necessary packages.
+npm install : This will download and install all necessary packages.
 
 
 # React + Vite
