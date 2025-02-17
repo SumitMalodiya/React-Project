@@ -16,7 +16,7 @@
 
 2.Navigate to the project directory: cd <project-directory>.
 
-3.Install dependencies: Run npm install to download and install all necessary packages from package.json.
+3.Install dependencies: Run npm install to download and install all necessary packages from package.json and also download vite React.
 
 4.Also install Tailwind CSS files for apply styling in this projects.
 
@@ -41,7 +41,7 @@ To implement a background changer in a React project, you can use state to manag
 
 
 -   ### Example:
-You can view the deployed project here [Link to the project] (http://127.0.0.1:5501/Buttons/index.html).
+You can view the deployed project here [Link to the project] (http://localhost:5173/).
 
 ## project3:
 
